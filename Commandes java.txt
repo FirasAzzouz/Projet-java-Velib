@@ -1,5 +1,0 @@
-\\workspace-papyrus\Group1_Project_IS1220_Part2_Diallo_Azzouz\src
-javac CLUI/CLITester.java
-java CLUI.CLITester setup myVelib1
-java CLUI.CLITester setup myVelib1 10 10 10 75
-
